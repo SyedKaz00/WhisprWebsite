@@ -14,9 +14,9 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Personalized AI Conversation System</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Secure P2P Communication System</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Our Personalized AI Conversation System is designed to emulate the unique communication style of your loved ones. By integrating advanced AI with your cherished messages, we create a lifelike and comforting experience that helps you stay connected with those who have passed or whom you’ve lost contact with. This service ensures that memories remain vivid and interactions feel genuine, providing emotional solace and continuity.
+                                Our Secure P2P Communication System enables you to connect directly with others without the need for centralized servers. Experience high-quality, secure communication that prioritizes your privacy.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -29,9 +29,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Memory Preservation Platform</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Decentralized Communication Platform</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Our Memory Preservation Platform offers a comprehensive solution for storing and organizing your precious memories. From text messages and emails to photos and voice notes, all your data is securely stored in the cloud. This platform allows you to easily access and revisit your memories anytime, from any device, ensuring that the essence of your loved ones is always within reach.                                </p>
+                                Our Decentralized Communication Platform offers a comprehensive solution for secure and reliable P2P communication. Whether you're exchanging messages, sharing files, or making voice calls, our platform ensures your data is always protected.                                </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
                                         Schedule Demo
@@ -54,9 +54,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Conversational AI Fine-Tuning Service</h4>
+                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Customizable Security Solutions</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Our Conversational AI Fine-Tuning Service customizes the AI based on your specific needs. By utilizing messages, emails, and other personal communications, we fine-tune our AI to perfectly mirror the conversational style of your loved ones. This tailored approach ensures the most authentic and meaningful interactions, providing a deeply personalized experience.
+                                Our Customizable Security Solutions allow you to tailor the level of security to your specific needs. From encrypted messaging to secure file sharing, we provide a range of options to ensure your communications are always safe.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -69,9 +69,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Customized Emotional Support Solutions</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Resilient Infrastructure-less Communication</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Our Customized Emotional Support Solutions provide personalized assistance to help you navigate the emotional complexities of loss and reconnection. Whether you need someone to talk to, or strategies for coping with grief, our AI-driven solutions are designed to offer comfort, understanding, and guidance, tailored to your unique situation.
+                                Our Resilient Infrastructure-less Communication service provides reliable connectivity in any environment. Whether you're in a remote area or experiencing network outages, Whispr keeps you connected securely.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">

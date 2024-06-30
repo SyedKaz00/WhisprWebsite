@@ -15,7 +15,7 @@ const Intro = () => {
                             
                             <h3 className="text-3xl  text-blue-900 font-bold">Our Mission</h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>"At BeyondWords, our mission is to bridge the gap between past and present by harnessing the power of AI to rekindle the conversations and connections that matter most. We strive to provide a comforting, respectful, and meaningful way for individuals to preserve the memories of loved ones, fostering a sense of closeness and continuity through thoughtful and personalized interactions." - Founder</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>"At Whispr, our mission is to empower individuals with secure, peer-to-peer communication. By leveraging cutting-edge technology, we eliminate the need for centralized infrastructure, providing a safe and reliable way to connect. We are dedicated to ensuring your privacy and security, fostering trust and confidence in every interaction." - Founder</p>
                             </div>
                             
                             <div>

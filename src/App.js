@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("BeyondWords - Where Memories Speak");
+  useDocTitle("Whispr - Built on Trust, Powered by Security");
 
   return (
     <>

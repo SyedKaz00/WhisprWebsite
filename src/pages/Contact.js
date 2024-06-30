@@ -11,7 +11,7 @@ const Contact = () => {
   src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
 </script>
 
-    useDocTitle('BeyondWords - Where Memories Speak')
+    useDocTitle('Whispr - Built on Trust, Powered by Security')
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
     const [email, setEmail] = useState('')
